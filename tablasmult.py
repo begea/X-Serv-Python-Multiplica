@@ -1,6 +1,6 @@
 #!/urs/bin/python3
 
-# Tablas de multiplicar del 1 al 10.
+# Tablas de multiplicar del 1 al 10
 
 for indice1 in range(1,11):
 	print "Tabla del "+ str(indice1)
