@@ -1,5 +1,4 @@
-#!/urs/bin/python
-# -*- coding: utf-8 -*-
+#!/urs/bin/python3
 
 # Tablas de multiplicar del 1 al 10.
 
